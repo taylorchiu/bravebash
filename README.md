@@ -1,5 +1,7 @@
 # bravebash
 ## Live coding demo for Brave Initiatives' Brave Bash
+### View the demo at http://bravebash.com/
+*(it scrolls because we will be displaying it on monitors throughout the room)
 
 ## Setup
 1. Clone or download the repo 
