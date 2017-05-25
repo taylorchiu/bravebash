@@ -57,3 +57,51 @@ border: 15px solid #0FB2C1;
   font-family: "Arial Black", Gadget, sans-serif;
 }
 
+#dolphin {
+  border: 5px solid #C70039;
+  text-align: right;
+  font-family: impact;
+  padding: 0 30%;
+}
+
+#dolphin-statement {
+  color: #1898ED;
+}
+
+#ducks {
+  border: 5px solid #FA78F0;
+  text-align: right;
+  font-family: "Comic Sans MS";
+  padding: 0 30%;
+}
+
+#flower{border: 5px solid #C978FA;
+  text-align: right;
+  font-family: "Trebuchet MS";
+  padding: 0 30%;
+}
+
+#elephant{border: 5px solid #000000;
+  text-align: right;
+  font-family: "Courier New";
+  padding: 0 30%;
+}
+
+#babyelephant{border: 5px solid #1C3D94;
+  text-align: right;
+  font-family: Impact;
+  padding: 0 30%;
+}
+
+
+#bikegirl {border: 5px solid #941C8A;
+  text-align: right;
+  font-family: Impact;
+  padding: 0 30%;
+}
+
+#girlbike {border: 5px solid #531C94;
+  text-align: right;
+  font-family: "Comic Sans MS";
+  padding: 0 30%;
+}
