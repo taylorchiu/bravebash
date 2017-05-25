@@ -1,0 +1,24 @@
+/*Teachers - have your students add their CSS here!*/
+
+#rosa-parks {
+  background-color: gray;
+  color: white;
+  font-family: cursive;
+}
+
+#rosa-photo {
+  border: 5px solid lightpink;
+}
+
+#sonia-sotomayor {
+  border: 10px solid turquoise;
+  text-align: center;
+  font-family: monospace;
+  padding: 0 30%;
+}
+
+#sonia-sotomayor .brave-section-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

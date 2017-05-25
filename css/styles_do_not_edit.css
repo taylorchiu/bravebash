@@ -1,0 +1,50 @@
+main {
+  padding-bottom: 50px;
+}
+
+.main-header {
+  padding-bottom: 0 !important;
+}
+
+.navbar.navbar-brave{
+  margin-bottom: 0;
+  background-color: white;
+}
+
+.brave-image {
+  height: 200px;
+}
+
+.brave-section-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.brave-statement {
+  padding-left: 20px;
+}
+
+#logo {
+  height: 40px;
+  position: fixed;
+  top: 6px;
+}
+
+#logo-text {
+  margin-left: 40px;
+}
+
+.parallax-window-one,
+.parallax-window-two,
+.parallax-window-three {
+  width: 100%;
+  height: 500px;
+  background-color: transparent;
+}
+
+section.container {
+  padding: 2% 0 2% 10%;
+  /* override auto width */
+  /* so ppl can add background-color easily */
+  width: 100% !important;
+}
