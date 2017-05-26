@@ -93,7 +93,6 @@ border: 15px solid #0FB2C1;
   padding: 0 30%;
 }
 
-
 #bikegirl {border: 5px solid #941C8A;
   text-align: right;
   font-family: Impact;
@@ -104,4 +103,17 @@ border: 15px solid #0FB2C1;
   text-align: right;
   font-family: "Comic Sans MS";
   padding: 0 30%;
+}
+
+#will{
+  background-color: #FA8072;
+  color: white;
+}
+
+#robin{
+  background-color: #00ffff;
+}
+
+#kate{
+  background-color: green;
 }
