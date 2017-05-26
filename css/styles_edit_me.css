@@ -117,3 +117,17 @@ border: 15px solid #0FB2C1;
 #kate{
   background-color: green;
 }
+
+#eilleen {
+  border: 10px solid #000000;
+}
+
+#sierra {
+  border: 10px solid #9A24C2;
+  font-size: 30px;
+}
+
+#tom {
+   border: 10px solid #2C3A9D;
+  font-size: 30px;
+}
